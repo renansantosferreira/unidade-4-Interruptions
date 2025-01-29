@@ -15,7 +15,7 @@ Este projeto foi desenvolvido para controlar uma matriz de LEDs WS2812 utilizand
 - 1 Raspberry Pi Pico (ou similar)
 - 1 Matriz de LEDs WS2812 (5x5 LEDs)
 - 2 Botões para incrementar e decrementar os números exibidos
-- LED RGB (opcional)
+- 1 LED RGB 
 
 ## Diagrama de Conexão
 
