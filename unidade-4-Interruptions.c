@@ -186,7 +186,7 @@ void setup() {
 
     // Inicializa o temporizador para piscar o LED RGB | 5 vezes por segundos
     static struct repeating_timer timer;
-    add_repeating_timer_ms(100, blink_led_callback, NULL, &timer);
+    add_repeating_timer_ms(200, blink_led_callback, NULL, &timer);
 }
 
 int main() {
